@@ -20,6 +20,8 @@ public:
 	bool deleteNode(int rollNo);
 	bool listEmpty();
 	void traverse();
+	void revtraverse();
+
 
 
 	
