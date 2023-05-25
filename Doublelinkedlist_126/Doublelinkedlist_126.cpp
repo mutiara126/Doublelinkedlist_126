@@ -16,6 +16,10 @@ private:
 public:
 	DoubleLinkedlist();
 	void addNode();
+	bool search(int rolNo, Node** previous, Node** current);
+
+	
+
 
 
 };
