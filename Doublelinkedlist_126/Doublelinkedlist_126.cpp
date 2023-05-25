@@ -22,6 +22,8 @@ public:
 	void traverse();
 	void revtraverse();
 	void hapus();
+	void searchData();
+
 
 
 
