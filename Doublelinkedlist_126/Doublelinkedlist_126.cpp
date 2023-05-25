@@ -21,6 +21,8 @@ public:
 	bool listEmpty();
 	void traverse();
 	void revtraverse();
+	void hapus();
+
 
 
 
