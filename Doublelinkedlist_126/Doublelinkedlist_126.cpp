@@ -13,6 +13,12 @@ public:
 class DoubleLinkedlist {
 private:
 	Node*START
+public:
+	DoubleLinkedlist();
+	void addNode();
+
+
 };
+
 
 
